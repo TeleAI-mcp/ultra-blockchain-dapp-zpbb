@@ -1,2 +1,3 @@
-# ultra-blockchain-dapp-zpbb
-Automated issue comment bot repository
+# Ultra Blockchain Dapp Zpbb
+
+Automated issue comment bot repository.
